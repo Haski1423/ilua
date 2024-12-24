@@ -1,5 +1,4 @@
-.intro__subtitle{
-    color: #FFF;
+.intro__subtitle {
     font-family: Inter;
     font-size: 24px;
     font-style: normal;
@@ -9,36 +8,22 @@
     padding: 0;
     margin-top: 40px;
 }
+
 @media screen and (min-width: 768px) {
     .intro__subtitle {
-            color: #FFF;
-            font-family: Inter;
-            font-size: 24px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 34px;
-            width: 720px;
-        }
+        line-height: 34px;
+        width: 720px;
+    }
 }
+
 @media screen and (min-width: 1024px) {
     .intro__subtitle {
-            color: #FFF;
-            font-family: Inter;
-            font-size: 24px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 34px;
-            width: 690px;
-        }
+        width: 690px;
+    }
 }
+
 @media screen and (min-width: 1280px) {
     .intro__subtitle {
-            color: #FFF;
-            font-family: Inter;
-            font-size: 24px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 34px;
-            width: 690px;
-        }
+        width: 690px;
+    }
 }
